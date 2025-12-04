@@ -30,7 +30,7 @@ const CountdownTimer = ({ targetDate }) => {
   }, [targetDate]);
 
   return (
-    <div className="flex justify-center space-x-8 my-8" data-aos="fade-left" data-aos-delay="400" data-a0s-duration="2000">
+    <div className="flex justify-center space-x-8 m-6" data-aos="fade-left" data-aos-delay="400" data-a0s-duration="2000">
       <div className="text-center">
         <span className="block text-4xl font-bold">{timeLeft.days}</span>
         <span className="block text-sm text-gray-500">Days</span>

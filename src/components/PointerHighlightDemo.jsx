@@ -2,7 +2,7 @@ import { PointerHighlight } from "../components/ui/pointer-highlight";
 
 export function PointerHighlightDemo() {
   return (
-    <div className="mx-auto max-w-lg py-4 md:py-8 text-2xl font-bold tracking-tight md:text-4xl text-[#cd6474]"  data-aos="zoom-in-right" data-aos-duration="2000"
+    <div className="mx-auto max-w-lg py-4 md:py-8 text-2xl font-bold tracking-tight md:text-4xl text-[#cd6474] "  data-aos="zoom-in-right" data-aos-duration="2000"
     // style={{ fontFamily: "Great Vibes, cursive" }} 
     style={{ fontFamily: "Great Vibes ,Dancing Script" }}
      >

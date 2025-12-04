@@ -26,7 +26,7 @@ function Img() {
           }}
         />
         <div data-aos="fade-right" data-aos-duration="2000" data-aos-delay="300">
-        <span className="relative z-10 text-[19px] md:text-3xl"  >⋆  🎀  𝐿o𝓋𝑒 𝓂𝒶𝒹𝑒 𝓊𝓈 o𝓃𝑒  🎀  ⋆</span></div>
+        <span className="relative z-10 text-[19px] md:text-3xl w-fit"  >⋆  🎀  𝐿o𝓋𝑒 𝓂𝒶𝒹𝑒 𝓊𝓈 o𝓃𝑒  🎀  ⋆</span></div>
       </div>
       <div className="w-full h-full flex flex-row justify-evenly items-center rounded-2xl gap-4">
         {/* <BackgroundGradient/>
@@ -45,7 +45,7 @@ function Img() {
         <BackgroundGradientDemo
           imgSrc="/yoguu.JPG"
           name="Yogesh"
-          description="💎💞 𝐹𝑜𝓇 𝒽𝑒𝓇, 𝐼’𝓁𝓁 𝒸𝒽𝑜𝑜𝓈𝑒 𝓁𝑜𝓋𝑒 𝒾𝓃 𝑒𝓋𝑒𝓇𝓎 𝓁𝒾𝒻𝑒𝓉𝒾𝓂𝑒."
+          description="💎💞 𝐹𝑜𝓇  𝒽𝑒𝓇, 𝐼’𝓁𝓁 𝒸𝒽𝑜𝑜𝓈𝑒 𝓁𝑜𝓋𝑒 𝒾𝓃 𝑒𝓋𝑒𝓇𝓎 𝓁𝒾𝒻𝑒𝓉𝒾𝓂𝑒."
         />
         </div>
       </div>
