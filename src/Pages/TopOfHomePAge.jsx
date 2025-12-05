@@ -1,5 +1,5 @@
 import React from "react";
-import CountdownTimer from "../Components/CountdownTimer";
+import CountdownTimer from "../components/CountdownTimer";
 import { PointerHighlightDemo } from "../components/PointerHighlightDemo";
 
 function TopOfHomePAge() {
